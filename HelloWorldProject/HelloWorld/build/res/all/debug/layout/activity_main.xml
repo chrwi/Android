@@ -48,5 +48,33 @@
             android:layout_alignRight="@+id/checkBox"
             android:layout_alignLeft="@+id/checkBox"/>
 
+    <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/messageTextBox"
+            android:layout_below="@+id/textView"
+            android:layout_toLeftOf="@+id/textButton"
+            android:autoText="false"
+            android:hint="Enter a message to sent"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Send"
+            android:id="@+id/textButton"
+            android:layout_alignBottom="@+id/messageTextBox"
+            android:layout_alignParentRight="true"
+            android:singleLine="true"
+            android:onClick="sendMessage"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/statusText"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:textSize="30dp"/>
+
 </RelativeLayout>
-<!-- From: file:/C:/Users/chw1/AndroidStudioProjects/HelloWorldProject/HelloWorld/src/main/res/layout/activity_main.xml -->
+<!-- From: file:/D:/Prosjekter/Android/Android/HelloWorldProject/HelloWorld/src/main/res/layout/activity_main.xml -->

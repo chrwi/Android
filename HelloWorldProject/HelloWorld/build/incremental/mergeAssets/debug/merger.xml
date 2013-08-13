@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="C:\Users\chw1\AndroidStudioProjects\HelloWorldProject\HelloWorld\src\main\assets" />
+        <source path="D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\src\main\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\chw1\AndroidStudioProjects\HelloWorldProject\HelloWorld\src\debug\assets" />
+        <source path="D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\src\debug\assets" />
     </dataSet>
 
 </merger>
