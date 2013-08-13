@@ -29,6 +29,11 @@
                 qualifiers=""
                 type="layout" />
             <file
+                name="display_message_activitiy"
+                path="D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\src\main\res\layout\display_message_activitiy.xml"
+                qualifiers=""
+                type="layout" />
+            <file
                 name="main"
                 path="D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\src\main\res\menu\main.xml"
                 qualifiers=""

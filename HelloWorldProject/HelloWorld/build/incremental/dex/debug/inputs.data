@@ -2,17 +2,17 @@
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
 1375998174580 428 7e349fe4786e563220159fe142330dd68b171a04 D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$drawable.class
-1376425191645 647 e949ab1b29f66cddc112c3762316b37fe2a7bf00 D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$id.class
+1376428547926 680 01efba0966148d8aef5deda68dbc4cf5cd502185 D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$id.class
 1375998174576 482 ae3f681c403262a6665ea637d2b6379066a7eaa2 D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$dimen.class
 1376426737964 2349 98d662cdf3f867e0de260038fc77e5a51875ddcf D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\MainActivity.class
 1376426737955 927 291db67895640977c4707fa53f70f884e77b08be D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\MainActivity$1.class
-1376425191651 409 bd70c7edfd9bbb1ffdfc0379a5cc615ba8bb222e D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$menu.class
+1376428547932 409 d18cf22f70bb1bf877430847b9239a66cac65ff9 D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$menu.class
 1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\Users\christian\Android Studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
-1376425191658 452 af9e00ccd13e2dbd01eedeaf675c66ffe362046d D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$style.class
+1376428547938 452 8ec4aa73a10bc83433b8ea9c8922b830143387d5 D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$style.class
 1375998174574 361 88f8305fe3343a2884d6c9c10616558c4a4cd545 D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$attr.class
 1375998174592 359 1b692b40190d0e43145735768b54f4030fbf6db9 D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\BuildConfig.class
-1376425191648 424 f7f5b3877f3cbf4a210c715f16b8039354a0988c D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$layout.class
+1376428547929 473 bde6c7df8ef50a32d9ddc1167014ce984fd3ca88 D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$layout.class
 1376426737960 1144 a10a2ce27e9d46d1f76bc5c6837ecf2f8d14b40d D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\MainActivity$2.class
-1376425191660 747 643411e1d7ef4df4594612dbd1e6dab742f56d1d D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R.class
-1376425191655 561 0b536cebeea0160f68dcde8df370a8bcb37ecd4b D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$string.class
-1376426737914 1107 ba4e41a6abafc71bff1813a90e3c8fd238951927 D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\DisplayMessageActivity.class
+1376428547941 747 bf7a80482f8c958d0f66dad514e8a303ce1d2fca D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R.class
+1376428547935 561 2bc03883f9e14d7661aee791ca08bf4ce9018567 D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\R$string.class
+1376428778382 1109 380dd3528397b32901605436e057be3f0f301a7f D:\Prosjekter\Android\Android\HelloWorldProject\HelloWorld\build\classes\debug\com\wilhelmsen\helloworld\DisplayMessageActivity.class

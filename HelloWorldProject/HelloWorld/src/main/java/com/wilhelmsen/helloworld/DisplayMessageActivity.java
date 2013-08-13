@@ -11,14 +11,14 @@ import android.widget.TextView;
 public class DisplayMessageActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        setContentView(R.layout.display_message_activitiy);
         Intent intent = getIntent();
         String message = intent.getStringExtra(MainActivity.EXTRA_MESSAGE);
 
-        TextView textView = new TextView(this);
+        TextView textView = (TextView) findViewById(R.id.textView2);
         textView.setTextSize(40);
         textView.setText(message);
 
-        setContentView(textView);
+
     }
 }
