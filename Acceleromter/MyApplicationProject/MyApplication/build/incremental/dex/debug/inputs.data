@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376862553157 2844 f50fb28e87071d8380e89e0462808abcab2dfe63 C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\MainActivity.class
+1376860143119 361 e63ebf6bf1ea61b8b5ed2732fafe5c27d23e8041 C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$attr.class
+1376860143153 359 fdc73ac1e1da2010356e9bbf147ce969332b18da C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\BuildConfig.class
+1376862136841 747 67f92a9c08c7e953e606c6fb579e11b2c065423e C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R.class
+1376862136835 493 e4362af2fbdbec4a11bc92201c85632fb3ffa909 C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$string.class
+1376862136826 558 4aee4047613ee29f6f58ca334536dfea62ef5ca5 C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$id.class
+1376860143124 482 faada894e924919263c56b8f52dfdc73ffaae454 C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$dimen.class
+1376862136837 452 8f4af49ba8dcc1e4027dd62b1d4562b17db388c3 C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$style.class
+1376862136831 409 28bbfd678122b9420db8776623bbe51e4cacbaeb C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$menu.class
+1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\Program Files\Android Studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1376862136829 424 6760aed111ff192a4bf54e9eaf431e6e2ca1474d C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$layout.class
+1376860143129 428 55a643a0b155fd26d3984e444062582e16cdb5aa C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$drawable.class
