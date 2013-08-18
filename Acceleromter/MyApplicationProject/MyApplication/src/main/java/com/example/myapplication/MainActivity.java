@@ -15,7 +15,7 @@ public class MainActivity extends Activity implements SensorEventListener {
 
     private SensorManager mSensorManager;
     private Sensor mAccelerometer;
-    TextView title, tv, tv1, tv2;
+    TextView title, x_axis, y_axis, z_axis;
     RelativeLayout layout;
 
     @Override
@@ -26,13 +26,11 @@ public class MainActivity extends Activity implements SensorEventListener {
         mSensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
         // Get the accelerometer sensor
         mAccelerometer = mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
-        // get layout
-        layout = (RelativeLayout) findViewById(R.id.relative);
-        // get textviews
-        title = (TextView) findViewById(R.id.name);
-        tv  =   (TextView) findViewById(R.id.xval);
-        tv1 =   (TextView) findViewById(R.id.yval);
-        tv2 =   (TextView) findViewById(R.id.zval);
+
+        //title =    (TextView) findViewById(R.id.name);
+        x_axis  =  (TextView) findViewById(R.id.xval);
+        y_axis =   (TextView) findViewById(R.id.yval);
+        z_axis =   (TextView) findViewById(R.id.zval);
     }
 
 
@@ -51,9 +49,9 @@ public class MainActivity extends Activity implements SensorEventListener {
 
         // Display values using TextView
         title.setText(R.string.app_name);
-        tv.setText("X axis"  + "\t\t"+x);
-        tv1.setText("Y axis" + "\t\t"+y);
-        tv2.setText("Z axis" + "\t\t"+z);
+        x_axis.setText("X axis"  + "\t\t"+x);
+        y_axis.setText("Y axis" + "\t\t"+y);
+        z_axis.setText("Z axis" + "\t\t"+z);
     }
 
     @Override

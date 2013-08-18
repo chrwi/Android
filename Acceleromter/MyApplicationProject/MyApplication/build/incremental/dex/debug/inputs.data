@@ -1,7 +1,7 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1376862553157 2844 f50fb28e87071d8380e89e0462808abcab2dfe63 C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\MainActivity.class
+1376863408053 2787 98bf6f7f0d5e83dce909a6dcefcc219ce1941d54 C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\MainActivity.class
 1376860143119 361 e63ebf6bf1ea61b8b5ed2732fafe5c27d23e8041 C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$attr.class
 1376860143153 359 fdc73ac1e1da2010356e9bbf147ce969332b18da C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\BuildConfig.class
 1376862136841 747 67f92a9c08c7e953e606c6fb579e11b2c065423e C:\Users\christian\Documents\Android\Acceleromter\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R.class
